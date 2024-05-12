@@ -9,8 +9,6 @@ Our dataset encompasses a wide range of polymer properties, including but not li
 - Tensile strength
 - Elongation at break
 - Compressive modulus
-- Thermal conductivity
-- Electrical conductivity
 - And much more!
 
 Each data point is rigorously researched and meticulously documented, providing researchers and enthusiasts alike with a wealth of valuable information to explore.
