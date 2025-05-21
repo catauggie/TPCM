@@ -1,17 +1,27 @@
-# TPCM Repository
+# PCM Repository
+## Overview
+This repository accompanies the research article *"Multi-Objective Optimization of Neural Networks for Predicting Physical Properties of Textile Polymer Composite Materials."* It provides open access to the experimental dataset and supporting resources used in the study.
 
-## Introduction
-Welcome to the TPCM Repository, an invaluable supplement to our scientific article "Multi-Objective Optimization of Neural Networks for Predicting Physical Properties of Textile Polymer Composite Materials".
-Here, you'll find an extensive dataset comprising properties of various polymers used in textile composites, meticulously compiled to offer comprehensive insights into this fascinating field of study.
+## Contents
+The repository includes:
+- A structured dataset containing physical and mechanical properties of textile-reinforced polymer composites.
+- Features such as:
+  - Fiber type (e.g., flax, cotton, sisal, hemp)
+  - Matrix material (PLA, PP, epoxy)
+  - Surface treatment (untreated, alkaline, silane)
+  - Processing conditions (extrusion, molding)
+- Target properties:
+  - Tensile strength  
+  - Elongation at break  
+  - Compressive modulus  
+  - Impact toughness  
+  - Density  
 
-## Dataset
-Our dataset encompasses a wide range of polymer properties, including but not limited to:
-- Tensile strength
-- Elongation at break
-- Compressive modulus
-- And much more!
-
-Each data point is rigorously researched and meticulously documented, providing researchers and enthusiasts alike with a wealth of valuable information to explore.
+## Purpose
+The dataset was curated to support machine learning applications in materials science, particularly for the prediction of composite behavior based on composition and processing. It is suitable for:
+- Training and benchmarking regression models
+- Sensitivity and feature importance analyses
+- Exploring structure–property relationships in natural-fiber composites
 
 ## Jupyter Notebook (.ipynb)
 To facilitate seamless analysis and visualization of the dataset, we've provided a companion Jupyter notebook (.ipynb). This interactive tool allows you to delve into the data, generate insightful visualizations, and extract meaningful conclusions with ease. Whether you're a seasoned scientist or a budding researcher, the Jupyter notebook serves as your indispensable guide to unlocking the secrets hidden within the TPCM dataset.
