@@ -1,6 +1,6 @@
 # PCM Repository
 ## Overview
-This repository accompanies the research article *"Multi-Objective Optimization of Neural Networks for Predicting Physical Properties of Textile Polymer Composite Materials."* It provides open access to the experimental dataset and supporting resources used in the study.
+This repository accompanies the research article *"Deep Learning for Property Prediction and Optimization of Natural-Fiber Polymer Composites."* It provides open access to the experimental dataset and supporting resources used in the study.
 
 ## Contents
 The repository includes:
